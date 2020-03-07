@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d78089f-d747-470b-abf8-1cf115afc154" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/ToColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/GereCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/gere_bras.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/BougeBaseMobile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/TraceData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/LacheObjet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/GUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/SelectionScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/ClavierScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/PrendreObjet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/SourisScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/MaterialScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/NavigationScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/MachineAEtatsScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/EnZoneDepot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/GenereObjetScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/robot mobile/scripts/SelectionableDistScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/Gravity.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/SelectionScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/gere_bras.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/EnZoneDepot.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/ClavierScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/BougeBaseMobile.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/MaterialScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/GereCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/GUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/SourisScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/ToColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/Navigation1.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/MVSScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/NavigationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/MachineAEtatsScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/SelectionableDistScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/PrendreObjet.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/LacheObjet.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/GenereObjetScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/robot mobile/scripts/TraceData.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TEn4VE6Bi8cytgbSagIFKwq7Kd" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="17888">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="17888" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d78089f-d747-470b-abf8-1cf115afc154" name="Default Changelist" comment="" />
+      <created>1573033931400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573033931400</updated>
+      <workItem from="1573033938350" duration="2069000" />
+      <workItem from="1573636600640" duration="5481000" />
+      <workItem from="1573651027810" duration="2727000" />
+      <workItem from="1574079986910" duration="10090000" />
+      <workItem from="1575393254134" duration="11362000" />
+      <workItem from="1575407304918" duration="2096000" />
+      <workItem from="1575449841761" duration="6472000" />
+      <workItem from="1575460701915" duration="9549000" />
+      <workItem from="1575479953731" duration="195000" />
+      <workItem from="1576089161034" duration="496000" />
+      <workItem from="1576367694755" duration="4288000" />
+      <workItem from="1576422266205" duration="4128000" />
+      <workItem from="1576429931473" duration="2751000" />
+      <workItem from="1576433736294" duration="613000" />
+      <workItem from="1576434569526" duration="2259000" />
+      <workItem from="1576443817754" duration="3425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
